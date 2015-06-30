@@ -1,12 +1,15 @@
 {
     "plugins": [
         "duoshuo",
-        "gitbook-plugin-ga"
+        "ga"
     ],
     "pluginsConfig": {
         "duoshuo": {
             "short_name": "ddbullfrog",
             "theme": "default"
+        },
+        "ga": {
+            "token": "UA-64647272-1"
         }
     }
 }
