@@ -1,7 +1,12 @@
 {
     "plugins": [
-        "gitbook-plugin-duoshuo",
+        "duoshuo",
         "gitbook-plugin-yahei"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "duoshuo": {
+            "short_name": "ddbullfrog",
+            "theme": "default"
+        }
+    }
 }
