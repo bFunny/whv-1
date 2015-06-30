@@ -1,7 +1,8 @@
 {
     "plugins": [
         "duoshuo",
-        "ga"
+        "ga",
+        "gitbook-plugin-betterchinese"
     ],
     "pluginsConfig": {
         "duoshuo": {
